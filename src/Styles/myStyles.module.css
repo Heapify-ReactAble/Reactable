@@ -1,0 +1,12 @@
+.heading {
+    font-size: 40px;
+    color: blue;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+
+.header {
+    color: green;
+    background-color: blue;
+}
