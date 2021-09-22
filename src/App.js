@@ -1,5 +1,6 @@
 import Component1 from "./Components/Component";
 import Component2 from "./Components/Component2";
+import Hooks from "./Hooks/Hooks";
 import JSX from "./JSX/JSX";
 import LifecycleMethods from "./Lifecycle-Methods/LifecycleMethods";
 import LearningState from "./State-Props/LeraningState";
@@ -17,7 +18,8 @@ function App() {
       {/* <Properties abc="Understanding Props" xyz="Understanding" textColor="green"/>
       <LearningState count={10} /> */}
       {/* <Styles /> */}
-      <LifecycleMethods />
+      {/* <LifecycleMethods /> */}
+      <Hooks />
     </div>
   );
 }
