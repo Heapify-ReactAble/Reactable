@@ -1,5 +1,8 @@
+import ArrayMethods from "./ArrayMethods/ArrayMethods";
+import Bootstrap from "./Bootstrap/Bootstrap";
 import Component1 from "./Components/Component";
 import Component2 from "./Components/Component2";
+import EventHandling from "./EventHandling/EventHandling";
 import Hooks from "./Hooks/Hooks";
 import JSX from "./JSX/JSX";
 import LifecycleMethods from "./Lifecycle-Methods/LifecycleMethods";
@@ -19,7 +22,10 @@ function App() {
       <LearningState count={10} /> */}
       {/* <Styles /> */}
       {/* <LifecycleMethods /> */}
-      <Hooks />
+      {/* <Hooks /> */}
+      {/* <EventHandling /> */}
+      {/* <ArrayMethods /> */}
+      <Bootstrap />
     </div>
   );
 }

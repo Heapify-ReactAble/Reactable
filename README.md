@@ -5,3 +5,5 @@
 - [x] Variations of useEffect hook <strong>or</strong> How to use the Effect hook a componentDidMount/componentDidUpdate?
 - [x] useRef vs useState
 - [x] useMemo vs useCallback
+- [x] Fat Arrow functions vs Normal Functions
+- [x] Synthetic Events
